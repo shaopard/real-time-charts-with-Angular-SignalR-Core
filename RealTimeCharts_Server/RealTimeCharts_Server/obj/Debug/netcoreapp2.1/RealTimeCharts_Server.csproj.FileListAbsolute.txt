@@ -1,0 +1,16 @@
+C:\Users\shaopard\source\repos\RealTimeCharts_Server\RealTimeCharts_Server\bin\Debug\netcoreapp2.1\RealTimeCharts_Server.deps.json
+C:\Users\shaopard\source\repos\RealTimeCharts_Server\RealTimeCharts_Server\bin\Debug\netcoreapp2.1\RealTimeCharts_Server.runtimeconfig.json
+C:\Users\shaopard\source\repos\RealTimeCharts_Server\RealTimeCharts_Server\bin\Debug\netcoreapp2.1\RealTimeCharts_Server.runtimeconfig.dev.json
+C:\Users\shaopard\source\repos\RealTimeCharts_Server\RealTimeCharts_Server\bin\Debug\netcoreapp2.1\RealTimeCharts_Server.dll
+C:\Users\shaopard\source\repos\RealTimeCharts_Server\RealTimeCharts_Server\bin\Debug\netcoreapp2.1\RealTimeCharts_Server.pdb
+C:\Users\shaopard\source\repos\RealTimeCharts_Server\RealTimeCharts_Server\bin\Debug\netcoreapp2.1\RealTimeCharts_Server.Views.dll
+C:\Users\shaopard\source\repos\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.1\RealTimeCharts_Server.csproj.CoreCompileInputs.cache
+C:\Users\shaopard\source\repos\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.1\RealTimeCharts_Server.RazorAssemblyInfo.cache
+C:\Users\shaopard\source\repos\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.1\RealTimeCharts_Server.RazorAssemblyInfo.cs
+C:\Users\shaopard\source\repos\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.1\RealTimeCharts_Server.AssemblyInfoInputs.cache
+C:\Users\shaopard\source\repos\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.1\RealTimeCharts_Server.AssemblyInfo.cs
+C:\Users\shaopard\source\repos\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.1\RealTimeCharts_Server.RazorTargetAssemblyInfo.cache
+C:\Users\shaopard\source\repos\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.1\RealTimeCharts_Server.dll
+C:\Users\shaopard\source\repos\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.1\RealTimeCharts_Server.pdb
+C:\Users\shaopard\source\repos\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.1\RealTimeCharts_Server.csproj.CopyComplete
+C:\Users\shaopard\source\repos\RealTimeCharts_Server\RealTimeCharts_Server\obj\Debug\netcoreapp2.1\RealTimeCharts_Server.csprojAssemblyReference.cache
