@@ -5,7 +5,7 @@ Based upon the article found at "https://code-maze.com/netcore-signalr-angular/"
 
 # RealTImeChartsClient
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3. Then the Angular version of the project was updated to 7.1.4. Other dependency updates will come with time.
 
 ## Development server
 
